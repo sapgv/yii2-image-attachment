@@ -1,5 +1,5 @@
 {
-  "name": "zxbodya/yii2-image-attachment",
+  "name": "sapgv/yii2-image-attachment",
   "description": "Extension for yii, to handle images attached to ActiveRecord",
   "type": "yii2-extension",
   "keywords": [
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "zxbodya\\yii2\\imageAttachment\\": ""
+      "sapgv\\yii2\\imageAttachment\\": ""
     }
   }
 }
