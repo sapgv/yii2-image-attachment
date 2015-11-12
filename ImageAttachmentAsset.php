@@ -1,6 +1,6 @@
 <?php
 
-namespace zxbodya\yii2\imageAttachment;
+namespace sapgv\yii2\imageAttachment;
 
 use Yii;
 use yii\helpers\Html;
@@ -15,7 +15,7 @@ use yii\widgets\InputWidget;
  */
 class ImageAttachmentAsset extends AssetBundle
 {
-    public $sourcePath = '@zxbodya/yii2/imageAttachment/assets';
+    public $sourcePath = '@sapgv/yii2/imageAttachment/assets';
     public $js = [
         'jquery.iframe-transport.js',
         'jquery.imageAttachment.js',

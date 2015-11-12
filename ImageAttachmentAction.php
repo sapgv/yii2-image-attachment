@@ -1,5 +1,5 @@
 <?php
-namespace zxbodya\yii2\imageAttachment;
+namespace sapgv\yii2\imageAttachment;
 
 use Yii;
 use yii\base\Action;

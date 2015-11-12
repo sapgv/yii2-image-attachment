@@ -3,7 +3,7 @@
  * @var View $this
  */
 use yii\web\View;
-use zxbodya\yii2\imageAttachment\ImageAttachmentWidget;
+use sapgv\yii2\imageAttachment\ImageAttachmentWidget;
 
 /** @var ImageAttachmentWidget $widget */
 $widget = $this->context;

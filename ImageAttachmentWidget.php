@@ -1,5 +1,5 @@
 <?php
-namespace zxbodya\yii2\imageAttachment;
+namespace sapgv\yii2\imageAttachment;
 
 use Yii;
 use yii\base\Exception;
@@ -64,7 +64,7 @@ class ImageAttachmentWidget extends Widget
         $i18n->translations['imageAttachment/*'] = [
             'class' => 'yii\i18n\PhpMessageSource',
             'sourceLanguage' => 'en-US',
-            'basePath' => '@zxbodya/yii2/imageAttachment/messages',
+            'basePath' => '@sapgv/yii2/imageAttachment/messages',
             'fileMap' => [
             ],
         ];
